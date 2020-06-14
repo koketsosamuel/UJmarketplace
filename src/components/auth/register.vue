@@ -62,7 +62,7 @@
         <small id="helpName" class="text-muted">length should be atleast 4 charecters long</small>
       </div>
 
-      <button class="btn orange btn-lg" type="submit" @click="submit()">Register</button>
+      <button class="btn orange btn-lg" type="submit" @click="register">Register</button>
     
     </form>
 
